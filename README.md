@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiguelPFL, an aspiring NOC engineer.
+- 👋 Hi, I’m @MiguelPFL, an aspiring Network Engineer.
 - 👀 I’m interested in improving my skills as a Cybersecurity Enthusiast, specifically in all matters Networking.
 - 📫 How to reach me: Email at miguelpaoloflangones@gmail.com
 - My initial repositories will be my old projects from other accounts in the past.
